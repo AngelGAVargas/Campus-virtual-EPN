@@ -12,15 +12,15 @@ Para que esta guía sea completamente comprensible y para fundamentar la razón 
 
 **DISEÑO DE EXPERIENCIA DE USUARIO**
 
-El diseño de experiencia de usuario, también conocido como UX design, es el proceso de diseñar y mejorar la experiencia que los usuarios tienen al interactuar con un producto o servicio. En el caso del Campus virtual de la Escuela Penitenciaria de la Nación (EPN), el diseño de experiencia de usuario es esencial para garantizar una experiencia educativa satisfactoria y efectiva.
+El diseño de experiencia de usuario, también conocido como UX design, es el proceso de diseñar y mejorar la experiencia que los usuarios tienen al interactuar con un producto o servicio. En el caso del Campus virtual de la Escuela Penitenciaria de la Nación (EPN), el diseño de experiencia de usuario es primordial para garantizar una experiencia educativa agradable y positiva.
 
-El diseño de experiencia de usuario se utiliza para entender las necesidades y expectativas de los usuarios, así como para crear soluciones que satisfagan esas necesidades y mejoren la experiencia general. Esto incluye aspectos como la facilidad de uso, la accesibilidad, la eficiencia y la satisfacción del usuario.
+El diseño UX se utiliza para comprender las necesidades y expectativas de los usuarios, así como para crear soluciones que satisfagan esas necesidades y mejoren la experiencia general. Esto incluye aspectos como la facilidad de uso, la accesibilidad, la eficiencia y la satisfacción del usuario.
 
-Es importante utilizar el diseño de experiencia de usuario en el desarrollo del Campus virtual de la EPN porque esto permitirá diseñar una plataforma educativa que sea intuitiva, fácil de usar y que satisfaga las necesidades específicas de los usuarios. Por ejemplo, los estudiantes y profesores de la EPN podrían tener necesidades y expectativas específicas en cuanto a la accesibilidad y usabilidad de la plataforma, así como en la forma en que se presentan los contenidos y se organizan las actividades de aprendizaje.
+Es importante utilizar este concepto en el desarrollo del Campus virtual de la EPN porque esto permitirá diseñar una plataforma que sea intuitiva, fácil de usar y que satisfaga las necesidades específicas de los usuarios. Por ejemplo, los estudiantes y profesores de la EPN podrían tener necesidades y expectativas específicas en cuanto a la accesibilidad y usabilidad de la plataforma, así como en la forma en que se presentan los contenidos y se organizan las actividades de aprendizaje, diferentes de otras plataformas.
 
-Al utilizar el diseño de experiencia de usuario en el desarrollo del Campus virtual de la EPN, se podrían obtener varios beneficios, como una mayor eficiencia en la navegación y uso de la plataforma, una reducción en el número de errores y frustraciones de los usuarios, y una mayor satisfacción general del usuario. Además, un diseño de experiencia de usuario efectivo podría aumentar la retención y participación de los estudiantes y mejorar la calidad general de la educación ofrecida por la EPN.
+Al utilizar el diseño de experiencia de usuario en el desarrollo del Campus virtual de la EPN, se podrían obtener varios beneficios, como una mayor eficiencia en la navegación y uso de la plataforma, una reducción en el número de errores y frustraciones de los usuarios, y una mayor satisfacción general del usuario. Además, un diseño efectivo podría aumentar la retención y participación de los estudiantes y mejorar la calidad general de la educación ofrecida.
 
-En resumen, el diseño de experiencia de usuario es fundamental para garantizar una experiencia educativa efectiva y satisfactoria en el Campus virtual de la EPN. Al utilizar el diseño de experiencia de usuario, se pueden diseñar soluciones que satisfagan las necesidades y expectativas de los usuarios y se pueden obtener varios beneficios en términos de eficiencia, satisfacción y calidad de la educación ofrecida.
+En resumen, al utilizar el diseño de experiencia de usuario, se pueden diseñar soluciones que satisfagan las necesidades y expectativas de los usuarios y se pueden obtener varios beneficios en términos de eficiencia, satisfacción y calidad de la educación ofrecida.
 
 **DISEÑO DE INTERFAZ DE USUARIO**
 
@@ -28,19 +28,13 @@ El diseño de interfaz de usuario, también conocido como UI design, se refiere 
 
 El diseño de interfaz de usuario se utiliza para crear una interfaz gráfica que sea fácil de entender y de usar para los usuarios. Esto incluye aspectos como la disposición de los elementos en la pantalla, la tipografía, la selección de colores y la creación de iconos y botones intuitivos. La finalidad de la interfaz de usuario es permitir a los usuarios interactuar de manera eficiente y efectiva con la plataforma y llevar a cabo sus tareas de forma fácil y cómoda.
 
-Es importante utilizar el diseño de interfaz de usuario en el desarrollo del Campus virtual de la EPN porque esto garantiza que los usuarios tengan una experiencia agradable y fácil al utilizar la plataforma. La interfaz de usuario es lo primero que los usuarios ven al acceder a la plataforma, por lo que una interfaz bien diseñada puede captar la atención del usuario y aumentar su interés en el contenido educativo ofrecido.
+Es importante utilizar el diseño UI porque esto garantiza que los usuarios tengan una experiencia agradable y fácil al utilizar la plataforma. La interfaz de usuario es lo primero que los usuarios ven al acceder a la plataforma, por lo que una interfaz bien diseñada puede captar la atención del usuario y aumentar su interés en el contenido educativo ofrecido.
 
-En conclusión, el diseño de interfaz de usuario es esencial para garantizar una experiencia educativa satisfactoria en el Campus virtual de la EPN. Al utilizar el diseño de interfaz de usuario, se puede crear una interfaz clara, intuitiva y fácil de usar, lo que puede aumentar la eficiencia y la satisfacción del usuario y mejorar la calidad general de la educación en línea ofrecida.
-
-**RELACION DE UX/UI**
-
-El diseño de interfaz de usuario y el diseño de experiencia de usuario están estrechamente relacionados, ya que una interfaz bien diseñada es esencial para lograr una experiencia educativa satisfactoria. Una interfaz mal diseñada puede ser frustrante para los usuarios, lo que puede conducir a una experiencia educativa pobre y un menor compromiso con la plataforma.
-
-El uso del diseño de interfaz de usuario en el desarrollo del Campus virtual de la EPN puede beneficiar a los usuarios de varias maneras. Una interfaz clara y fácil de usar puede mejorar la eficiencia y la satisfacción del usuario, lo que a su vez puede aumentar la retención y la participación de los estudiantes en la plataforma. Además, una interfaz bien diseñada puede facilitar la navegación y el acceso a los contenidos, lo que puede mejorar la calidad general de la educación ofrecida por la EPN.
+En resumen, el diseño UI permite crear una interfaz clara, intuitiva y fácil de usar, lo que puede aumentar la eficiencia, la complacencia del usuario y mejorar la calidad general.
 
 **JERARQUÍA DE CONTENIDOS Y ESTRUCTURACIÓN LOS ELEMENTOS**
 
-La jerarquía de contenidos y la estructuración son elementos fundamentales en el diseño de cualquier producto o plataforma, especialmente en aquellos que se dedican a la transmisión de información, como lo es el Campus virtual de la Escuela Penitenciaria de la Nación (EPN).
+La jerarquía de contenidos y la estructuración son elementos fundamentales en el diseño de cualquier producto o plataforma, especialmente en aquellos que se dedican a la transmisión de información, como lo es el Campus virtual EPN.
 
 La jerarquía de contenidos se refiere a la organización de la información en diferentes niveles de importancia y relevancia, en función de los objetivos y necesidades del usuario. Es importante que los contenidos estén organizados de forma clara y coherente, con una estructura jerarquizada que permita a los usuarios navegar fácilmente por la información y encontrar lo que necesitan de manera rápida y eficiente.
 
@@ -67,5 +61,3 @@ Una interfaz de usuario bien diseñada puede mejorar la experiencia de usuario y
 Además, la experiencia de usuario se puede mejorar a través de la interacción social y la retroalimentación constante. La plataforma de la EPN ofrece herramientas de interacción social, como foros de discusión y chats en línea, que permiten a los estudiantes conectarse con otros compañeros y profesores. También se proporciona retroalimentación constante a través de evaluaciones y exámenes que permiten a los estudiantes conocer su progreso y mejorar su comprensión de los contenidos.
 
 La experiencia de usuario también puede influir en la motivación y el compromiso de los estudiantes. Una interfaz de usuario bien diseñada y una experiencia de usuario satisfactoria pueden aumentar la motivación de los estudiantes y su compromiso con el proceso de aprendizaje. La plataforma de la EPN utiliza estrategias de gamificación y la posibilidad de realizar un seguimiento del progreso para motivar y comprometer a los estudiantes.
-
-En resumen, la experiencia de usuario y la interfaz de usuario son elementos críticos para el proceso de aprendizaje y absorción de conocimientos en el Campus virtual de la EPN. Una interfaz de usuario bien diseñada y una experiencia de usuario satisfactoria pueden mejorar la eficacia del aprendizaje y la motivación y compromiso de los estudiantes.
